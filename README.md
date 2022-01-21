@@ -8,3 +8,5 @@ Pequeno projeto que faz uma requisição simples para a API do Github para pesqu
 - HTML
 - CSS
 - JS
+
+Demo: https://barbarapxto.github.io/github-profile-search/
